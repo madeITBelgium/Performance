@@ -1,0 +1,11 @@
+test2/node_modules
+test2/public/hot
+test2/public/storage
+test2/storage/*.key
+test2/vendor
+test2/.env.backup
+test2/.phpunit.result.cache
+test2/Homestead.json
+test2/Homestead.yaml
+test2/npm-debug.log
+test2/yarn-error.log
