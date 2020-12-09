@@ -5,6 +5,9 @@
  * define('START_TIME', microtime(true));
  *
  * View admin pages and add ?debug=true or &debug=true to the url.
+ *
+ *
+ * Add to functions.php:
  */
 function test_db()
 {
