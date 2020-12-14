@@ -1,5 +1,18 @@
 <?php
 /*
+ * Plugin Name: Performance analyze
+ * Plugin URI: https://www.madeit.be
+ * Description: A wordpress plugin to analyze the performance of the WordPress Core
+ * Author: Tjebbe Lievens
+ * Author URI: https://www.madeit.be
+ * Version: 1.0.0
+ * Text Domain: performance
+ * Domain Path: /languages
+ * License: GPLv3.
+ */
+
+
+/*
  * Add to wp-config.php:
  * define('SAVEQUERIES', true);
  * define('START_TIME', microtime(true));
